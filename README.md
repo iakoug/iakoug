@@ -5,7 +5,7 @@
 - 🔭 I’m currently working on rich text editor with serverless application.
 
 🔗 https://kwoks.me
-<p>![](https://visitor-badge.glitch.me/badge?page_id=justwink.justwink)</p>
+![](https://visitor-badge.glitch.me/badge?page_id=justwink.justwink)
 
 <p>
 <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=JavaScript&color=444444" />
