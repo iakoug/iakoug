@@ -13,12 +13,6 @@
  <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript" /> <img alt="React" src="https://img.shields.io/badge/-React-black?style=flat-square&logo=react" /> <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-339933?style=flat-square&logo=Node.js&logoColor=white" />
 </p>
 
-<div>
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=justwink&layout=compact&width=49%" />
-  <img src="https://github-readme-stats.vercel.app/api?username=justwink&show_icons=true&icon_color=805AD5&text_color=718096&bg_color=ffffff&width=49%&hide_title=true&count_private=true&include_all_commits=true"" />
-</div>
-
-
 <!--
 **justwink/justwink** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
