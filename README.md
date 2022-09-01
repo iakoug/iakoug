@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on rich text editor with serverless application.
 
-🔗 https://iakoug.cn
+🔗 https://blog.iakoug.cn
 ![](https://visitor-badge.glitch.me/badge?page_id=justwink.justwink)
 
 <p>
